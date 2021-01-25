@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FB_Application</string>
+    <string name="Temperature">Temperatura</string>
+    <string name="Camera">Telecamera</string>
+    <string name="notDefined">non definito</string>
+    <string name="Stop">Stop</string>
+    <string name="Start">Start</string>
+    <string name="Language">Lingue</string>
+    <string name="DarkMode">Tema scuro</string>
+    <string name="addressPi">Indirizzo RaspberryPi sulla rete locale</string>
+    <string name="addressPiS">Indirizzo RaspberryPi</string>
+    <string name="Validation">Convalidare</string>
+    <string name="Parameters">Impostazioni</string>
+    <string name="ToastValidate">Le tue modifiche vengono convalidate</string>
+    <string name="update">update</string>
+
+    <string-array name="language_array">
+        <item>fr</item>
+        <item>en</item>
+        <item>it</item>
+    </string-array>
+
+
+
+</resources>
